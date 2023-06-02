@@ -1,16 +1,13 @@
-### Hi there 👋
+### 👋 Hello! I'm Tommy.
 
-<!--
-**t0mmylam/t0mmylam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm getting my BA in Computer Science at Columbia University and currently doing a summer internship at [Nutanix](https://www.nutanix.com/).
 
-Here are some ideas to get you started:
+You can check out [my personal website](https://thomaslam.info) to learn more about me 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/thslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thslam" height="30" width="40" /></a>
+</p>
+<!---
+<b>📭 Need to reach me?</b> Shoot me an email at [ding@brown.edu](mailto:ding@brown.edu)
+->
