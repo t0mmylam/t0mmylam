@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Tommy.
 
-I'm getting my BA in Computer Science at Columbia University and am currently doing a summer internship at [Nutanix](https://nutanix.com).
+I'm getting my BA in Computer Science at Columbia University and recently did a summer internship at [Nutanix](https://nutanix.com).
 
 You can check out [my personal website](https://thomaslam.info) to learn more about me 😄
 
