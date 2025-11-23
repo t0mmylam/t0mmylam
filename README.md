@@ -1,6 +1,6 @@
 ## 👋 Hello! I'm Tommy.
 
-I'm getting my BA in Computer Science at Columbia University and am currently doing a summer internship at [Nvidia](https://www.nvidia.com/en-us.com).
+I'm getting my BA in Computer Science at Columbia University and am currently doing a summer internship at [Nvidia](https://www.nvidia.com/en-us).
 
 ### Connect with me:
 <p align="left">
